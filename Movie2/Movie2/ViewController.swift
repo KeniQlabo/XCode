@@ -65,6 +65,7 @@ class ViewController: UIViewController {
        }
     
        @IBAction func pauseBtnTapped(_ sender: Any) {
+            // test
             player.pause()
             //   playerView.player = nil
        }
